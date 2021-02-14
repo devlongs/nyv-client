@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/nyv-client/static/css/main.92cad869.chunk.css",
+    "main.js": "/nyv-client/static/js/main.efc6d4bb.chunk.js",
+    "main.js.map": "/nyv-client/static/js/main.efc6d4bb.chunk.js.map",
+    "runtime-main.js": "/nyv-client/static/js/runtime-main.7d27379b.js",
+    "runtime-main.js.map": "/nyv-client/static/js/runtime-main.7d27379b.js.map",
+    "static/js/2.3f8e7137.chunk.js": "/nyv-client/static/js/2.3f8e7137.chunk.js",
+    "static/js/2.3f8e7137.chunk.js.map": "/nyv-client/static/js/2.3f8e7137.chunk.js.map",
+    "index.html": "/nyv-client/index.html",
+    "static/css/main.92cad869.chunk.css.map": "/nyv-client/static/css/main.92cad869.chunk.css.map",
+    "static/js/2.3f8e7137.chunk.js.LICENSE.txt": "/nyv-client/static/js/2.3f8e7137.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/nyv-client/static/media/hero.f0a8c729.jpg",
+    "static/media/World_Health_Organization_logo_WHO-688x700.5d54fc71.png": "/nyv-client/static/media/World_Health_Organization_logo_WHO-688x700.5d54fc71.png",
+    "static/media/chatt.610cf88d.png": "/nyv-client/static/media/chatt.610cf88d.png",
+    "static/media/facebook.4f037d96.png": "/nyv-client/static/media/facebook.4f037d96.png",
+    "static/media/instagram.e719d8b2.png": "/nyv-client/static/media/instagram.e719d8b2.png",
+    "static/media/logo.dd0320b7.png": "/nyv-client/static/media/logo.dd0320b7.png",
+    "static/media/org.d966ca9e.png": "/nyv-client/static/media/org.d966ca9e.png",
+    "static/media/pexels-rodnae-productions-6647175.14648efc.jpg": "/nyv-client/static/media/pexels-rodnae-productions-6647175.14648efc.jpg",
+    "static/media/placeholder.64cdcb0e.png": "/nyv-client/static/media/placeholder.64cdcb0e.png",
+    "static/media/twitter.89498832.png": "/nyv-client/static/media/twitter.89498832.png",
+    "static/media/usericon.2e2230a0.png": "/nyv-client/static/media/usericon.2e2230a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d27379b.js",
+    "static/js/2.3f8e7137.chunk.js",
+    "static/css/main.92cad869.chunk.css",
+    "static/js/main.efc6d4bb.chunk.js"
+  ]
+}
