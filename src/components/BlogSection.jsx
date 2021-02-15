@@ -65,7 +65,7 @@ function BlogSection (){
                         </div>
                     </div>
                 </div>
-                <div className="blog-sidebar">
+                <div className="blog-sidebar hideon-desktop">
                     <div className="opportunity">
                         <h3>Covid 19 aid workers in Maiduguri <span><img src={arrowicon} alt="" /></span></h3>
                         <h3>Covid 19 aid workers in Maiduguri <span><img src={arrowicon} alt="" /></span></h3>
